@@ -3692,7 +3692,7 @@ input:checked + .toggleSwitchSlider:before {
     cursor: pointer;
     position: relative;
     background: rgba(131, 131, 131, 0.25);
-    border-radius: 20px;
+    border-radius: 3px;
 }
 .serverListing[selected] {
     cursor: default;
@@ -3756,7 +3756,7 @@ input:checked + .toggleSwitchSlider:before {
     border: 1px solid #fff;
     height: 50px;
     width: 50px;
-    border-radius: 20px 0px 0px 20px;
+    border-radius: 3px 0px 0px 3px;
 }
 
 /* Content container for the server listing's details. */
